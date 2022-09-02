@@ -1,6 +1,6 @@
-# JOSH graft wallet
+# LIVRAMEN graft wallet
 
-This is Josh's Fork now.
+"This is Josh's Fork now" no it's not, it's LIVRAMEN's fork now.
 
 ## Build
 
